@@ -31,7 +31,7 @@ To set up the environment for running the KAN-NN-for-STLF model, follow these st
    **Note**: The version numbers listed are provided as an example; check for the latest stable versions or compatibility with your system.
 
 3. **Using Virtual Environments in Jupyter Notebook and Python**：
-   Please see this website to use the "kan" vitual environment in Jupyter Notebook: https://janakiev.com/blog/jupyter-virtual-envs/
+   Please see this website to use the "kan" vitual environment in Jupyter Notebook: https://stackoverflow.com/questions/42449814/running-jupyter-notebook-in-a-virtualenv-installed-sklearn-module-not-available
 
 ## Usage
 
