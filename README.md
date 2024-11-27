@@ -2,8 +2,7 @@
 
 ## Overview
 
-This documentation provides details on the implementation of "A Hybrid Kolmogorov-Arnold Networks and Artificial Neural Network based Model for Interpretable and Enhanced Short-term Load Forecasting". The model is based on a paper published on TechRxiv and can be found by searching for the corresponding article.
-
+This documentation provides details on the implementation of "A Hybrid Kolmogorov-Arnold Networks and Artificial Neural Network based Model for Interpretable and Enhanced Short-term Load Forecasting".
 ## Dataset Source
 
 The dataset used for this implementation can be found at [https://github.com/dafrie/lstm-load-forecasting](https://github.com/dafrie/lstm-load-forecasting). This repository contains electricity load forecasting data for Switzerland, along with related weather and calendar information.
